@@ -46,6 +46,7 @@ notebook==6.4.12
 ntlm-auth==1.5.0
 numpy==1.22.4
 packaging==21.3
+pandas==1.4.2
 pandocfilters==1.5.0
 parso==0.8.3
 pbr==5.9.0
@@ -63,6 +64,7 @@ pyparsing==3.0.9
 pyrsistent==0.18.1
 python-constraint==1.4.0
 python-dateutil==2.8.2
+pytz==2022.1
 pywin32==304
 pywinpty==2.0.5
 pyzmq==23.1.0
